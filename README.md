@@ -1,4 +1,4 @@
-This project is a part of 22/23 Deep Learning module at University of Leeds.
+## This project is a part of 22/23 Deep Learning module at University of Leeds.
 
 The aim of the project is to classify the images data set and improve the accuracy by some useful techniques as following:
 
