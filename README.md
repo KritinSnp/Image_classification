@@ -9,6 +9,6 @@ The aim of the project is to classify the images data set and improve the accura
 5. Overfitting and underfitting by train-test curve
 6. Methods of Tackling overfitting - Data augmentation, dropout, hyperparameter tuning
 7. Transfer learning
-8. Visualize the important area of the pictures used to classify image - Grad_CAM
+8. Explainable AI using Grad_CAM
 
 **Key library: ** Pandas, NumPy, MatPlotlib, PyTorch, h5py
